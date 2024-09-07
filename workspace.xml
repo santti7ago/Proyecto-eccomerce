@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9246fd22-a41e-4ad9-b739-757e11ea9cae" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/images/carrousel/fondo1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/carrousel/fondo2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/carrousel/fondo3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/carrousel/fondo4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/animate/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/animate/animate.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/easing/easing.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/easing/easing.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/owlcarousel/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/owlcarousel/owl.carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/owlcarousel/owl.carousel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/waypoints/links.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/waypoints/waypoints.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/wow/wow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/wow/wow.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/user/shoppinglist.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/heroic-features.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css/heroic-features.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/admin/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/admin/products/create.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/products/create.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/admin/products/edit.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/products/edit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/admin/products/show.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/products/show.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/admin/stock/create.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/stock/create.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/admin/stock/show.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/stock/show.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/admin/template_admin.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/template_admin.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/user/productdetail.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/user/productdetail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/user/sumaryorder.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/user/sumaryorder.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/user/template_user.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/user/template_user.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="package-info" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../Program Files/apache-maven-3.8.6" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2VPsi6PHpgHc1pyePR9udoRg4uG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Tesis/Lulopets-Ecommerce&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Tesis\ecommerce\src\main\resources\templates\user" />
+      <recent name="C:\Tesis\ecommerce\src\main\resources\static\js" />
+      <recent name="C:\Tesis\ecommerce\src\main\resources\static\vendor\bootstrap\css" />
+      <recent name="C:\Tesis\ecommerce\src\main\resources\static\lib\wow" />
+      <recent name="C:\Tesis\ecommerce\src\main\resources\static\lib\waypoints" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="EcommerceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lulopet.ecommerce.EcommerceApplication" />
+      <module name="ecommerce" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lulopet.ecommerce.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EcommerceApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9246fd22-a41e-4ad9-b739-757e11ea9cae" name="Changes" comment="" />
+      <created>1694749174603</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694749174603</updated>
+    </task>
+    <servers />
+  </component>
+</project>
